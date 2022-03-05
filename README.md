@@ -1,7 +1,7 @@
 <h1 align="center"> Título do Projeto </h1>
 <p> Descrição do projeto e seus objetivos. </p>
 <br>
-<p align="center"> ➡️ Acesse o projeto por <a href="" target="_blank"> aqui <a>⬅️</p>
+<p align="center"> ➡️ Acesse o projeto por <a href="" target="_blank"> aqui </a>⬅️</p>
 <img src="#" alt="Layout do meu projeto finalizado"> 
 <br>
  
