@@ -26,6 +26,15 @@
    <li>  </li>
    <li>  </li>
   </ol>
+
+<h3> JavaScript 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="20" height="20"/> 
+</h3>
+   <ol>
+    <li>  </li>
+    <li>  </li>
+    <li>  </li>
+  </ol>
 <br>
  
 <h2> 💡 Design </h2>
@@ -35,5 +44,5 @@
 <br>
 <br>
 
-<h2> 👩‍💻 Autora </h2>
+<h2> 👩‍💻 Programadora </h2>
 <h4 align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/emilycrystie/" target="_blank"> Emily Crystie <a>  😎. <h4>
