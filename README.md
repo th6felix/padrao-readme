@@ -44,5 +44,5 @@
 <br>
 <br>
 
-<h2> 👩‍💻 Programadora </h2>
-<h4 align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/emilycrystie/" target="_blank"> Emily Crystie <a>  😎. <h4>
+<h2> 👩‍💻 Programador </h2>
+<h4 align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/emilycrystie/" target="_blank"> Thiago Felix <a>  😎. <h4>
